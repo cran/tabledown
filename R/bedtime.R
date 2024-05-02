@@ -33,3 +33,4 @@ bedTime <- function(x,y)
   apply(data.frame(tmpbed, wake), 1, function(x) difftime(x[2], x[1], units = "hours"))
 }
 
+

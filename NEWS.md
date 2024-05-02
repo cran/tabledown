@@ -1,4 +1,42 @@
-<!-- NEWS.md is maintained by https://cynkra.github.io/fledge, do not edit -->
+<!-- NEWS.md is maintained by https://fledge.cynkra.com, contributors should not edit this file -->
+
+# tabledown 1.0.0
+
+- Version number updated to major updates
+-No example requires execution time >5s.
+
+
+# tabledown 0.0.3.9003
+
+- Merge pull request #5 from olivroy/patch-1.
+
+  lavaan compatible
+
+
+# tabledown 0.0.3.9002
+
+## Dev
+
+- All good to send for an Update (#4).
+
+## Uncategorized
+
+- Merge pull request #1 from masiraji/dev.
+
+  Website updated
+
+- CRAN approved and Github released.
+
+
+# tabledown 0.0.3.9001
+
+- CRAN approved and Github released
+
+
+# tabledown 0.0.3.9000
+
+- Same as previous version.
+
 
 # tabledown 0.0.3
 
